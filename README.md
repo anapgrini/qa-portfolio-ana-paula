@@ -1,69 +1,165 @@
-QA Portfolio - Ana Paula
-Web & Mobile Testing | Cypress | Agile
 
-📦 qa-portfolio-ana-paula
- ┣ 📜 README.md
- ┣ 📁 test-cases
- ┣ 📁 bug-reports
- ┣ 📁 exploratory-testing
- ┣ 📁 automation-cypress
- ┣ 📁 test-strategy
+# Hi, I'm Ana Paula Pelegrini! 👋
 
+### Quality Assurance Analyst | Manual & Automation Testing
 
-<h1 align="center">👩‍💻 Ana Paula Pelegrini - QA Portfolio</h1>
-
-<p align="center">
-Quality Assurance Analyst | Web & Mobile Testing | Agile | Automation (Cypress)
-</p>
+📍 Belo Horizonte, Brazil  
+💻 5+ years of experience in Software Quality Assurance  
+🌎 Open to Remote & International Opportunities  
+🎯 Focused on Software Quality, Test Automation & Continuous Improvement
 
 ---
 
-## 🚀 About Me
+## 👩‍💻 About Me
 
-Detail-oriented QA Analyst with experience in manual testing for Web and Mobile applications, including functional, regression, and exploratory testing in Agile environments.
+I'm a Quality Assurance professional with over 4 years of experience in software testing, specializing in Web and Mobile applications.
 
-Focused on delivering high-quality software through structured testing, analytical thinking, and attention to user experience.
+I enjoy investigating bugs, understanding how systems work, identifying risks, and helping teams deliver reliable, high-quality software.
 
----
+My background includes manual, functional, regression, exploratory, and end-to-end testing, as well as test case design, BDD scenarios, and defect management.
 
-## 🧰 Tech Stack
+I'm currently expanding my technical skills in test automation with Cypress, API testing, JavaScript, and SQL.
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Agile-Scrum-blue?style=for-the-badge"/>
-
-</p>
+I believe that quality is a shared responsibility and that great software starts with understanding the user's needs.
 
 ---
 
-## 📁 Portfolio Structure
+## 🛠️ Technical Skills
 
-- 🧪 Test Cases
-- 🐞 Bug Reports
-- 🔍 Exploratory Testing
-- 🤖 Automation (Cypress)
-- 📊 Test Strategy
+### Manual Testing
+- Functional Testing
+- Regression Testing
+- Exploratory Testing
+- End-to-End Testing
+- Web & Mobile Testing (iOS / Android)
+- Cross-Browser Testing
+- Test Case Design & Execution
+- Bug Reporting & Defect Tracking
+- Requirements Analysis
+- BDD / Gherkin
+
+### Test Automation
+- Cypress (foundational experience)
+- JavaScript (fundamentals)
+- End-to-End Test Automation
+- Automated UI Testing
+
+### API & Database Testing
+- Postman
+- Swagger
+- REST API Testing (fundamentals)
+- SQL (basic queries and data validation)
+
+### Tools & Methodologies
+- Jira
+- Pivotal Tracker
+- Phabricator
+- Git & GitHub
+- Agile / Scrum
+- VS Code
 
 ---
 
-## 💼 Experience
+## 💼 Professional Experience
 
-**QA Analyst – Symplicity Brazil (2022–2026)**  
-Manual Testing | Web & Mobile | Agile | Jira | Regression | Exploratory Testing
+### Senior QA Analyst | Grupo Fácil
+**September 2026 – Present**
+
+- Execute functional, regression, exploratory, and end-to-end tests.
+- Analyze requirements and develop test scenarios.
+- Identify, document, and track software defects.
+- Collaborate with development and product teams.
+- Support software quality and continuous improvement.
+
+### QA Analyst | VS Group
+**June 2026**
+
+- Performed software quality assurance activities.
+- Validated application functionality and reported defects.
+- Collaborated with team members on quality improvements.
+
+### Software QA Analyst | Symplicity Brasil
+**March 2022 – June 2026**
+
+- Performed manual testing for Web and Mobile applications.
+- Created and executed functional and regression test cases.
+- Developed BDD test scenarios.
+- Conducted cross-browser and multi-device testing.
+- Documented and tracked defects using Jira, Pivotal Tracker, and Phabricator.
+- Collaborated with Agile development teams.
+
+**Key Achievement:** Successfully executed approximately 800 regression tests within 20 days, ensuring critical test coverage and supporting software quality.
 
 ---
 
-## 🎯 Mission
+## 🧪 QA Portfolio Projects
 
-Deliver high-quality software through structured testing, critical thinking, and attention to user experience.
+### 🛒 SauceDemo — Cypress Automation
+Practical end-to-end testing exercises covering:
+- Valid and invalid login
+- Checkout workflows
+- Product sorting
+- UI validation
+
+**Technologies:** Cypress, JavaScript
+
+### 🔌 API Testing Practice
+Practical exercises involving:
+- HTTP requests and responses
+- API endpoint validation
+- Status code verification
+- API documentation analysis
+
+**Technologies:** Postman, Swagger
+
+### 📋 Manual Testing
+Examples of QA documentation and testing practices:
+- Test cases
+- Test scenarios
+- Bug reports
+- Regression checklists
+- Exploratory testing
+
+*Project documentation and examples are being organized for publication.*
 
 ---
 
-## 📫 Contact
+## 📚 Currently Learning
 
-- LinkedIn: https://www.linkedin.com/in/anapelegrinii  
-- GitHub: @anapgrini
+- Cypress Test Automation
+- JavaScript for QA
+- API Testing
+- SQL
+- Test Automation Best Practices
+- AI-Assisted Software Testing
+
+---
+
+## 🎓 Education & Certifications
+
+**IT Management** — Universidade Cruzeiro do Sul  
+Expected Graduation: 2027
+
+**Certifications**
+- Scrum Foundation Professional Certificate (SFPC)
+- Remote Work and Virtual Collaboration Professional Certificate (RWVCPC)
+- EF SET English Certificate
+
+---
+
+## 🌍 Languages
+
+- Portuguese — Native
+- English — Fluent
+
+---
+
+## 📫 Let's Connect!
+
+💼 [LinkedIn](https://www.linkedin.com/in/anapelegrinii)
+
+📧 [Email](mailto:anapgrini.qa@gmail.com)
+
+---
+
+⭐ *Passionate about software quality, continuous learning, and building better user experiences.*
