@@ -120,6 +120,21 @@ Examples of QA documentation and testing practices:
 - Regression checklists
 - Exploratory testing
 
+
+### SauceDemo - Cypress E2E Automation
+
+Automated end-to-end testing project using Cypress and JavaScript.
+
+**Test scenarios:**
+- Successful login with valid credentials
+- Login validation with invalid credentials
+- Error message verification
+- URL and product page validation
+
+**Technologies:** Cypress, JavaScript, Node.js, Git
+
+[View Cypress Automation Project](https://github.com/anapgrini/cypress-saucedemo-tests)
+
 *Project documentation and examples are being organized for publication.*
 
 ---
