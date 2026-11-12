@@ -101,6 +101,23 @@ Practical end-to-end testing exercises covering:
 - Product sorting
 - UI validation
 
+### SauceDemo - Manual Testing Project
+
+Manual functional testing project covering authentication,
+shopping cart, product sorting, and checkout workflows.
+
+**Highlights:**
+- 8 manual test cases designed and executed
+- 100% pass rate in the documented execution cycle
+- Positive and negative testing scenarios
+- Investigation of an unexpected login behavior
+- Test execution report with documented results
+
+**Documentation:**
+- [Manual Test Cases](manual-testing/saucedemo-test-cases.md)
+- [Test Execution Report](manual-testing/saucedemo-execution-report.md)
+
+
 **Technologies:** Cypress, JavaScript
 
 ### 🔌 API Testing Practice
